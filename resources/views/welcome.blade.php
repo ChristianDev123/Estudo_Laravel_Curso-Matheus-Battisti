@@ -1,14 +1,9 @@
-<!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Laravel</title>
-        <link rel="stylesheet" href="/css/styles.css">
-    </head>
-    <body>
+@extends('layouts.main')
+@section('titlePage','Laravel Page')
+@section('contentPage')
+    <h1>Algum título</h1>
+    <a href="/contacts">
         <img src="/img/banner.jpg" alt="">
-        <h1>Algum título</h1>
-        <script src="/js/scripts.js"></script>
-    </body>
-</html>
+    </a>
+    <script src="/js/scripts.js"></script>
+@endsection
