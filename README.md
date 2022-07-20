@@ -12,7 +12,7 @@ Link Referência: <https://www.youtube.com/playlist?list=PLnDvRpP8BnewYKI1n2chQr
 
 ![Create Project Page](https://github.com/ChristianDev123/Estudo_Laravel_Curso-Matheus-Battisti/blob/main/Laravel%20Images/Create%20Project.png)
 
-![Dashboard Projects Page](https://github.com/ChristianDev123/Estudo_Laravel_Curso-Matheus-Battisti/blob/main/Laravel%20Images/Dashboardpage.png)
+![Dashboard Projects Page](https://github.com/ChristianDev123/Estudo_Laravel_Curso-Matheus-Battisti/blob/main/Laravel%20Images/Dashboardprojects.png)
 
 ## Como instalar localmente:
 
